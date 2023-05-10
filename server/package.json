@@ -1,5 +1,5 @@
 {
-  "name": "@demo-amp-service/server",
+  "name": "@demo-service/server",
   "private": true,
   "scripts": {
     "start": "nest start",
